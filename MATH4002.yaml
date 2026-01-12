@@ -1,0 +1,57 @@
+# 授课教师部分（孙李刚, 凌超, 孙瑶）在原文中仅列出姓名，无具体评价信息。
+course_name: "优化算法"
+course_code: "MATH4002"
+notices: ""
+grading:
+  "0000": "作业(30%) + 期末考试(70%)"
+teachers:
+  - name: "孙李刚"
+    reviews: []
+  - name: "凌超"
+    reviews: []
+  - name: "孙瑶"
+    reviews: []
+textbooks:
+  - title: "工程最优化设计"
+    author: "李元科"
+    publisher: "清华大学出版社"
+    edition: "第二版"
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+  - title: "Convex Optimization"
+    author: "Boyd and Vandenberghe"
+    publisher: ""
+    edition: ""
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+  - title: "凸优化"
+    author: "王书宁、许鋆等译"
+    publisher: ""
+    edition: ""
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+online_resources: []
+about_course: []
+about_exam:
+  - content: "可以携带一张 A4 纸。"
+    submitter:
+      name: ""
+      link: ""
+study_advice: []
+schedule: []
+related_links:
+  - content: "参考书《Convex Optimization》在线阅读: https://web.stanford.edu/~boyd/cvxbook/"
+    submitter:
+      name: ""
+      link: ""
+  - content: "参考书《凸优化》中译版豆瓣链接: https://book.douban.com/subject/21249088/"
+    submitter:
+      name: ""
+      link: ""
+misc: []
