@@ -1,4 +1,6 @@
 # MATH4002 - 优化算法
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
@@ -11,16 +13,25 @@
 - 孙瑶
 
 ## 教材
+<!-- TOML-SECTION: title="教材" -->
+
+<!-- TOML-ITEM: id="item-教材-1" -->
 
 - **工程最优化设计**（李元科 / 清华大学出版社 / 第二版 / textbook）
 - **Convex Optimization**（Boyd and Vandenberghe / textbook）
 - **凸优化**（王书宁、许鋆 等译 / textbook）
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [Convex Optimization 书籍主页](https://web.stanford.edu/~boyd/cvxbook/)：Boyd and Vandenberghe 著，英文原版资源
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 可以携带一张 A4 纸。
 
