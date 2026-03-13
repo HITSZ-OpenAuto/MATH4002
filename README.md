@@ -8,6 +8,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 孙李刚
 - 凌超
 - 孙瑶

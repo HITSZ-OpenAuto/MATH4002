@@ -1,18 +1,17 @@
 course_name = "优化算法"
-repo_type = "normal"
 course_code = "MATH4002"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "孙李刚"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "凌超"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "孙瑶"
-
 
 [[sections]]
 title = "教材"
