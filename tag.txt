@@ -1,3 +1,0 @@
-category: 限选
-semester: 研究生秋季
-name: 优化算法
