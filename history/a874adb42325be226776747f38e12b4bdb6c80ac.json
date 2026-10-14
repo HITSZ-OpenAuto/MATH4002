@@ -1,0 +1,52 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814596,
+    "hash": "e7e9bea0b155a2131209aa1e11896ba341926497"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1753778322,
+    "hash": "c2396d826f0092dcbb498986e198976e8146139f"
+  },
+  "README.md": {
+    "size": 978,
+    "time": 1791961453,
+    "hash": "a874adb42325be226776747f38e12b4bdb6c80ac"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1753778322,
+    "hash": "c2396d826f0092dcbb498986e198976e8146139f"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1753778322,
+    "hash": "c2396d826f0092dcbb498986e198976e8146139f"
+  },
+  "exams/2025优化算法试题.pdf": {
+    "size": 126561,
+    "time": 1764741932,
+    "hash": "e48de69e47d1ef0791c411ff8ba5056b3e5031a7"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1753778322,
+    "hash": "c2396d826f0092dcbb498986e198976e8146139f"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1753778322,
+    "hash": "c2396d826f0092dcbb498986e198976e8146139f"
+  },
+  "readme.toml": {
+    "size": 936,
+    "time": 1773428064,
+    "hash": "db38ab78193bb2a5fc4a157556bddcaa64c6474c"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1753778322,
+    "hash": "c2396d826f0092dcbb498986e198976e8146139f"
+  }
+}
