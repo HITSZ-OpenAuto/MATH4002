@@ -1,10 +1,5 @@
 # MATH4002 - 优化算法
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 ## 授课教师
 
